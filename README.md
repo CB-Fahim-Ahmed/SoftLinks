@@ -8,7 +8,7 @@
 </a>
 
 #### 🔑 Key <a href="https://rirobinbd.com/winrar-paid-version-with-free-activation-key/">
-  <img src="https://freepngimg.com/download/download_now_button/25402-4-small-download-now-button-red.png?semt=ais_hybrid" alt="Download Now" style="height: 25px; width: 100px;"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 30px; width: 70px;"/>
 </a>
 
 ## ✍️ Adobe XD

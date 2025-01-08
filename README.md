@@ -8,6 +8,13 @@
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>
 
+## 📌 ZArchiver
+<img src="Image/ZArchiver.webp" alt="Download Now" width="1000" /> 
+
+### <a href="https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share">
+  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
+</a>
+
 #### 🔑 Key <a href="https://rirobinbd.com/winrar-paid-version-with-free-activation-key/">
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 30px; width: 70px;"/>
 </a>

@@ -20,7 +20,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>
 
-## ----------------------------END----------------------------
+### ----------------------------END----------------------------
 
 ## 📱 LDPLAYER
 <img src="Image/LDPLAYER.png" alt="Download Now" width="1000" /> 
@@ -29,7 +29,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>
 
-## ----------------------------END----------------------------
+### ----------------------------END----------------------------
 
 ## 🎬 Admob
 <img src="Image/AdMob.png" alt="Download Now" width="1000" /> 
@@ -38,7 +38,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>
 
-## ----------------------------END----------------------------
+### ----------------------------END----------------------------
 
 ## 🔥 FireBase
 <img src="Image/FireBase.png" alt="Download Now" width="1000" /> 
@@ -49,9 +49,27 @@
 
 # -----------------------Design-----------------------
 
-## ✍️ Adobe XD
+## 🖋️ Adobe XD
 <img src="Image/AdobeXD.png" alt="Download Now" width="1000" /> 
 
 ### <a href="https://linkpays.in/AdobeXD_Fahim_Ahmed">
+  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
+</a>
+
+### ----------------------------END----------------------------
+
+## 🎨 Coolors
+<img src="Image/Coolors.png" alt="Download Now" width="1000" /> 
+
+### <a href="https://coolors.co/">
+  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
+</a>
+
+### ----------------------------END----------------------------
+
+## 🎨 FLATICON
+<img src="Image/Flaticon.png" alt="Download Now" width="1000" /> 
+
+### <a href="https://www.flaticon.com/">
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>

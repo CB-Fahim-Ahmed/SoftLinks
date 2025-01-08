@@ -16,9 +16,7 @@
 ## 📌 ZArchiver ( Android )
 <img src="Image/ZArchiver.webp" alt="Download Now" width="1000" /> 
 
-### <a href="https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share">
-Click
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share)
 
 # -----------------------Platform-----------------------
 ## 💻 Intellij Idea

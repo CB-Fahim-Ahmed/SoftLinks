@@ -83,18 +83,20 @@
 </a>
 
 # -----------------------Android Platform-----------------------
-## 💻 Java-N-Idea
-<img src="Image/Intelij_Idea.png" alt="Download Now" width="1000" /> 
+## ☕ Java-N-Idea
+<img src="Image/JavaNIde.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://www.jetbrains.com/idea/">
+### <a href="https://linkpays.in/Java-N-IDE">
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>
 
 ### ----------------------------END----------------------------
 
-## 🖥️ AndroidIDE
-<img src="Image/AndroidStudio.png" alt="Download Now" width="1000" /> 
+## 🐘 AndroidIDE
+<img src="Image/AndroidIDE1.png" alt="Download Now" width="200" /> 
+<img src="Image/AndroidIDE2.png" alt="Download Now" width="200" /> 
+<img src="Image/AndroidIDE3.png" alt="Download Now" width="200" /> 
 
-### <a href="https://linkpays.in/Java-N-IDE">
+### <a href="https://m.androidide.com/">
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>

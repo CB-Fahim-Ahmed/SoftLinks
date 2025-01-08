@@ -67,7 +67,7 @@
 
 ### ----------------------------END----------------------------
 
-## 🎨 FLATICON
+## 📦 FLATICON
 <img src="Image/Flaticon.png" alt="Download Now" width="1000" /> 
 
 ### <a href="https://www.flaticon.com/">

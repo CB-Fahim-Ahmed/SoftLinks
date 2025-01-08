@@ -95,6 +95,6 @@
 ## 🖥️ AndroidIDE
 <img src="Image/AndroidStudio.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAvvO7BhC-ARIsAGFyToU6s3Xuq7QaZsNfhKYFxSY1pqa7UeH5JZ1BffZ64iApUDkCKIyloAwaAjfzEALw_wcB&gclsrc=aw.ds">
+### <a href="https://linkpays.in/Java-N-IDE">
   <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
 </a>

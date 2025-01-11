@@ -4,13 +4,11 @@
 ## 📌 WinRAR ( Windows )
 <img src="Image/WinRAR.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://www.win-rar.com/start.html?&L=0">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://www.win-rar.com/start.html?&L=0)
 
-#### 🔑 Key <a href="https://rirobinbd.com/winrar-paid-version-with-free-activation-key/">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 30px; width: 70px;"/>
-</a>
+
+#### 🔑 Key
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://rirobinbd.com/winrar-paid-version-with-free-activation-key/)
 
 
 ## 📌 ZArchiver ( Android )
@@ -22,18 +20,14 @@
 ## 💻 Intellij Idea
 <img src="Image/Intelij_Idea.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://www.jetbrains.com/idea/">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://www.jetbrains.com/idea/)
 
 ### ----------------------------END----------------------------
 
 ## 🖥️ Android Studio
 <img src="Image/AndroidStudio.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAvvO7BhC-ARIsAGFyToU6s3Xuq7QaZsNfhKYFxSY1pqa7UeH5JZ1BffZ64iApUDkCKIyloAwaAjfzEALw_wcB&gclsrc=aw.ds">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAvvO7BhC-ARIsAGFyToU6s3Xuq7QaZsNfhKYFxSY1pqa7UeH5JZ1BffZ64iApUDkCKIyloAwaAjfzEALw_wcB&gclsrc=aw.ds)
 
 ### ----------------------------END----------------------------
 

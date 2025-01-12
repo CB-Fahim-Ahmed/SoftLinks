@@ -41,52 +41,42 @@
 ## 🎬 Admob
 <img src="Image/AdMob.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://admob.google.com/home/">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://admob.google.com/home/)
+
 
 ### ----------------------------END----------------------------
 
 ## 🔥 FireBase
-<img src="Image/FireBase.png" alt="Download Now" width="1000" /> 
+<img src="Image/Firebase.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://firebase.google.com/">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://firebase.google.com/)
+
 
 # -----------------------Design-----------------------
 ## 🖋️ Adobe XD
 <img src="Image/AdobeXD.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://linkpays.in/AdobeXD_Fahim_Ahmed">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://linkpays.in/AdobeXD_Fahim_Ahmed)
 
 ### ----------------------------END----------------------------
 
 ## 🎨 Coolors
 <img src="Image/Coolors.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://coolors.co/">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://coolors.co/)
 
 ### ----------------------------END----------------------------
 
 ## 📦 FLATICON
 <img src="Image/Flaticon.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://www.flaticon.com/">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://www.flaticon.com/)
 
 # -----------------------Android Platform-----------------------
 ## ☕ Java-N-Idea
 <img src="Image/JavaNIde.png" alt="Download Now" width="1000" /> 
 
-### <a href="https://linkpays.in/Java-N-IDE">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://linkpays.in/Java-N-IDE)
 
 ### ----------------------------END----------------------------
 
@@ -95,6 +85,6 @@
 <img src="Image/AndroidIDE2.png" alt="Download Now" width="200" /> 
 <img src="Image/AndroidIDE3.png" alt="Download Now" width="200" /> 
 
-### <a href="https://m.androidide.com/">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png" alt="Download Now" style="height: 60px; width: 150px;"/>
-</a>
+## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://m.androidide.com/)
+
+### ----------------------------END----------------------------

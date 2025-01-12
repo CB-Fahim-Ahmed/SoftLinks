@@ -81,9 +81,7 @@
 ### ----------------------------END----------------------------
 
 ## 🐘 AndroidIDE
-<img src="Image/AndroidIDE1.png" alt="Download Now" width="200" /> 
-<img src="Image/AndroidIDE2.png" alt="Download Now" width="200" /> 
-<img src="Image/AndroidIDE3.png" alt="Download Now" width="200" /> 
+<img src="Image/AndroidIDE1.png" alt="Download Now" width="200" /> <img src="Image/AndroidIDE2.png" alt="Download Now" width="200" /> <img src="Image/AndroidIDE3.png" alt="Download Now" width="200" /> 
 
 ## [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://m.androidide.com/)
 
